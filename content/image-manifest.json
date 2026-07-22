@@ -1,0 +1,374 @@
+{
+  "art-bear.jpg": {
+    "file": "art-bear.webp",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 63322
+  },
+  "art-chicken.jpg": {
+    "file": "art-chicken.webp",
+    "width": 1600,
+    "height": 900,
+    "bytes": 190278
+  },
+  "art-deer.jpg": {
+    "file": "art-deer.webp",
+    "width": 1600,
+    "height": 1359,
+    "bytes": 196530
+  },
+  "art-dolphin.jpg": {
+    "file": "art-dolphin.webp",
+    "width": 1600,
+    "height": 1542,
+    "bytes": 159600
+  },
+  "art-eagle.jpg": {
+    "file": "art-eagle.webp",
+    "width": 1600,
+    "height": 1130,
+    "bytes": 138924
+  },
+  "art-fish.jpg": {
+    "file": "art-fish.webp",
+    "width": 1600,
+    "height": 887,
+    "bytes": 397386
+  },
+  "art-frog.jpg": {
+    "file": "art-frog.webp",
+    "width": 1280,
+    "height": 1765,
+    "bytes": 233326
+  },
+  "art-nest.jpg": {
+    "file": "art-nest.webp",
+    "width": 1280,
+    "height": 2276,
+    "bytes": 317428
+  },
+  "art-octopus.jpg": {
+    "file": "art-octopus.webp",
+    "width": 1600,
+    "height": 801,
+    "bytes": 173868
+  },
+  "art-oyster.jpg": {
+    "file": "art-oyster.webp",
+    "width": 1600,
+    "height": 2400,
+    "bytes": 313692
+  },
+  "art-slugs.jpg": {
+    "file": "art-slugs.webp",
+    "width": 1280,
+    "height": 999,
+    "bytes": 163402
+  },
+  "art-snail.jpg": {
+    "file": "art-snail.webp",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 123844
+  },
+  "art-snake.jpg": {
+    "file": "art-snake.webp",
+    "width": 1280,
+    "height": 1707,
+    "bytes": 141528
+  },
+  "art-tusk.jpg": {
+    "file": "art-tusk.webp",
+    "width": 1279,
+    "height": 1706,
+    "bytes": 115572
+  },
+  "art-wolf.jpg": {
+    "file": "art-wolf.webp",
+    "width": 1600,
+    "height": 1422,
+    "bytes": 145190
+  },
+  "aurora-back-garden.jpg": {
+    "file": "aurora-back-garden.webp",
+    "width": 2200,
+    "height": 1479,
+    "bytes": 290522
+  },
+  "aurora-birdseye.jpg": {
+    "file": "aurora-birdseye.webp",
+    "width": 2200,
+    "height": 1479,
+    "bytes": 308578
+  },
+  "aurora-east-pathway.jpg": {
+    "file": "aurora-east-pathway.webp",
+    "width": 2200,
+    "height": 1479,
+    "bytes": 283744
+  },
+  "aurora-front-gate.jpg": {
+    "file": "aurora-front-gate.webp",
+    "width": 2200,
+    "height": 1479,
+    "bytes": 318408
+  },
+  "aurora-front-yard.jpg": {
+    "file": "aurora-front-yard.webp",
+    "width": 2200,
+    "height": 1479,
+    "bytes": 333216
+  },
+  "aurora-parking-top.jpg": {
+    "file": "aurora-parking-top.webp",
+    "width": 2200,
+    "height": 1479,
+    "bytes": 592348
+  },
+  "aurora-parking.jpg": {
+    "file": "aurora-parking.webp",
+    "width": 2200,
+    "height": 1479,
+    "bytes": 397566
+  },
+  "aurora-pathway.jpg": {
+    "file": "aurora-pathway.webp",
+    "width": 2200,
+    "height": 1479,
+    "bytes": 226426
+  },
+  "cover-chinese.jpg": {
+    "file": "cover-chinese.webp",
+    "width": 1300,
+    "height": 860,
+    "bytes": 311452
+  },
+  "cover-interior.jpg": {
+    "file": "cover-interior.webp",
+    "width": 1300,
+    "height": 860,
+    "bytes": 250532
+  },
+  "cover-residential.jpg": {
+    "file": "cover-residential.webp",
+    "width": 1300,
+    "height": 860,
+    "bytes": 347006
+  },
+  "cover-urban.jpg": {
+    "file": "cover-urban.webp",
+    "width": 1300,
+    "height": 860,
+    "bytes": 419322
+  },
+  "favicon.png": {
+    "file": "favicon.png",
+    "width": 512,
+    "height": 512,
+    "bytes": 56678
+  },
+  "flower-rock-1.jpg": {
+    "file": "flower-rock-1.webp",
+    "width": 1032,
+    "height": 1506,
+    "bytes": 75224
+  },
+  "flower-rock-2.jpg": {
+    "file": "flower-rock-2.webp",
+    "width": 1280,
+    "height": 1707,
+    "bytes": 98672
+  },
+  "flower-rock-3.jpg": {
+    "file": "flower-rock-3.webp",
+    "width": 2200,
+    "height": 2933,
+    "bytes": 395768
+  },
+  "flower-rock-4.jpg": {
+    "file": "flower-rock-4.webp",
+    "width": 1707,
+    "height": 1280,
+    "bytes": 111396
+  },
+  "flower-rock-cover.jpg": {
+    "file": "flower-rock-cover.webp",
+    "width": 1079,
+    "height": 1546,
+    "bytes": 137964
+  },
+  "germination-1.jpg": {
+    "file": "germination-1.webp",
+    "width": 1280,
+    "height": 1707,
+    "bytes": 53628
+  },
+  "germination-2.jpg": {
+    "file": "germination-2.webp",
+    "width": 1280,
+    "height": 1707,
+    "bytes": 43740
+  },
+  "germination-cover.jpg": {
+    "file": "germination-cover.webp",
+    "width": 1280,
+    "height": 1707,
+    "bytes": 62560
+  },
+  "germination-diagram.jpg": {
+    "file": "germination-diagram.webp",
+    "width": 1277,
+    "height": 2291,
+    "bytes": 149368
+  },
+  "helix-1.jpg": {
+    "file": "helix-1.webp",
+    "width": 1280,
+    "height": 1707,
+    "bytes": 50094
+  },
+  "helix-2.jpg": {
+    "file": "helix-2.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 33946
+  },
+  "helix-analysis-1.jpg": {
+    "file": "helix-analysis-1.webp",
+    "width": 1080,
+    "height": 1440,
+    "bytes": 113106
+  },
+  "helix-analysis-2.jpg": {
+    "file": "helix-analysis-2.webp",
+    "width": 1080,
+    "height": 1080,
+    "bytes": 65502
+  },
+  "helix-elevation.jpg": {
+    "file": "helix-elevation.webp",
+    "width": 1079,
+    "height": 1546,
+    "bytes": 87722
+  },
+  "helix-top-view.jpg": {
+    "file": "helix-top-view.webp",
+    "width": 1080,
+    "height": 1080,
+    "bytes": 68770
+  },
+  "logo.png": {
+    "file": "logo.webp",
+    "width": 1000,
+    "height": 1000,
+    "bytes": 66224
+  },
+  "profile.jpg": {
+    "file": "profile.webp",
+    "width": 1024,
+    "height": 1024,
+    "bytes": 35400
+  },
+  "shell-concept.jpg": {
+    "file": "shell-concept.webp",
+    "width": 547,
+    "height": 1550,
+    "bytes": 29164
+  },
+  "shell-location.png": {
+    "file": "shell-location.webp",
+    "width": 907,
+    "height": 1141,
+    "bytes": 107828
+  },
+  "shell-render.jpg": {
+    "file": "shell-render.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 253304
+  },
+  "shell-section.jpg": {
+    "file": "shell-section.webp",
+    "width": 1349,
+    "height": 864,
+    "bytes": 179122
+  },
+  "tiny-birdseye.jpg": {
+    "file": "tiny-birdseye.webp",
+    "width": 2200,
+    "height": 1238,
+    "bytes": 432916
+  },
+  "tiny-interior-forest.jpg": {
+    "file": "tiny-interior-forest.webp",
+    "width": 2200,
+    "height": 1238,
+    "bytes": 185346
+  },
+  "tiny-interior-park.jpg": {
+    "file": "tiny-interior-park.webp",
+    "width": 2200,
+    "height": 1238,
+    "bytes": 345546
+  },
+  "tiny-interior-river.jpg": {
+    "file": "tiny-interior-river.webp",
+    "width": 2200,
+    "height": 1238,
+    "bytes": 242350
+  },
+  "tiny-plan-1f.jpg": {
+    "file": "tiny-plan-1f.webp",
+    "width": 1102,
+    "height": 1559,
+    "bytes": 95844
+  },
+  "tiny-plan-2f.jpg": {
+    "file": "tiny-plan-2f.webp",
+    "width": 1102,
+    "height": 1559,
+    "bytes": 121668
+  },
+  "tiny-section-forest.jpg": {
+    "file": "tiny-section-forest.webp",
+    "width": 2400,
+    "height": 3398,
+    "bytes": 291776
+  },
+  "tiny-section-park.jpg": {
+    "file": "tiny-section-park.webp",
+    "width": 2400,
+    "height": 3398,
+    "bytes": 386852
+  },
+  "tiny-section-river.jpg": {
+    "file": "tiny-section-river.webp",
+    "width": 2400,
+    "height": 3398,
+    "bytes": 283060
+  },
+  "tiny-site.jpg": {
+    "file": "tiny-site.webp",
+    "width": 2200,
+    "height": 1700,
+    "bytes": 169192
+  },
+  "white-dulcamara.jpg": {
+    "file": "white-dulcamara.webp",
+    "width": 1668,
+    "height": 2388,
+    "bytes": 144482
+  },
+  "z-day-birdseye.jpg": {
+    "file": "z-day-birdseye.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 140096
+  },
+  "z-day-camera.jpg": {
+    "file": "z-day-camera.webp",
+    "width": 1920,
+    "height": 1080,
+    "bytes": 213248
+  }
+}

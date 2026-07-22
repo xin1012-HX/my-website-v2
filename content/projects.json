@@ -1,0 +1,214 @@
+[
+  {
+    "slug": "aurora-home",
+    "legacy_file": "aurora-home.html",
+    "index": "A-01",
+    "title": "Aurora Shelter ‘Home’",
+    "year": "2025",
+    "category": "Social Architecture",
+    "location": "Toledo, Ohio",
+    "role": "Independent design",
+    "recognition": "AIA Toledo HSDC · Civic recognition",
+    "deck": "A residential shelter environment shaped around safety, dignity, and a renewed sense of belonging.",
+    "cover": "aurora-birdseye.jpg",
+    "story_title": "Designing dignity, not an institution.",
+    "story": [
+      "Experiences in Toledo’s streets and shelters changed my understanding of architecture. In winter, I often saw unhoused residents holding signs asking for a home, and I began to question what happened after they disappeared from those corners.",
+      "The 2025 AIA Toledo design competition created an opportunity to confront that question directly through a shelter for unhoused women and children. Conversations with Aurora Project residents made the priorities clear: safety, dignity, privacy, and the ordinary comfort of a place that feels like home.",
+      "Rather than reproduce an institutional shelter model, the proposal draws from familiar residential patterns in Toledo. Gardens, protected paths, domestic-scale volumes, and clear thresholds work together to support belonging without reinforcing marginalization. The project’s recognition by Toledo City Council confirmed that architecture can participate in public dialogue and contribute to social healing."
+    ],
+    "images": [
+      {"src": "aurora-birdseye.jpg", "alt": "Bird’s-eye rendering of the Aurora shelter and its garden courtyards", "caption": "Bird’s-eye view", "wide": true},
+      {"src": "aurora-front-yard.jpg", "alt": "Front yard rendering showing a residential-scale shelter entrance", "caption": "Front yard"},
+      {"src": "aurora-front-gate.jpg", "alt": "Protected front gate and entry sequence of the Aurora shelter", "caption": "Arrival and threshold"},
+      {"src": "aurora-pathway.jpg", "alt": "Landscaped pathway connecting the shelter buildings", "caption": "Internal pathway"},
+      {"src": "aurora-back-garden.jpg", "alt": "Back garden designed as a calm shared outdoor room", "caption": "Back garden"},
+      {"src": "aurora-east-pathway.jpg", "alt": "East pathway with planting and shelter façades", "caption": "East pathway"},
+      {"src": "aurora-parking.jpg", "alt": "Street-level view of the parking and arrival area", "caption": "Parking and arrival"},
+      {"src": "aurora-parking-top.jpg", "alt": "Top view of parking, circulation, and landscape organization", "caption": "Site circulation", "wide": true}
+    ]
+  },
+  {
+    "slug": "tiny-library",
+    "legacy_file": "tiny-library.html",
+    "index": "A-02",
+    "title": "Mobile Bridge",
+    "year": "2025",
+    "category": "Civic Architecture",
+    "location": "Hyden, Kentucky",
+    "role": "Independent design",
+    "recognition": "Volume Zero · Top 50",
+    "deck": "A tiny library that connects river, park, and forest through a productive civic bridge.",
+    "cover": "tiny-birdseye.jpg",
+    "story_title": "A cultural flow belt for a small town.",
+    "story": [
+      "Hyden, Kentucky faces limited employment, population loss, an aging demographic, and the effects of substance abuse. The proposal responds with a vertically stacked productive space where reading, craft, gardening, health support, and collective activity can coexist.",
+      "The concept of a mobile bridge links three natural conditions—the river, park, and forest—into a cultural flow belt. Each end becomes a distinct spatial hub while the center acts as a shared threshold between landscape and town.",
+      "Over the river, stepped bookshelves rise toward a viewing level above a glass floor. Toward the forest, reading terraces and a meditation area create quiet visual continuity with the trees. The park-facing zone supports workshops, medical and psychological services, and sustainable agriculture, turning a small library into civic infrastructure."
+    ],
+    "images": [
+      {"src": "tiny-birdseye.jpg", "alt": "Bird’s-eye rendering of the Mobile Bridge library across the landscape", "caption": "Bird’s-eye view", "wide": true},
+      {"src": "tiny-site.jpg", "alt": "Site analysis mapping river, park, forest, and town conditions", "caption": "Site analysis", "wide": true},
+      {"src": "tiny-interior-river.jpg", "alt": "Interior reading steps overlooking the river", "caption": "River reading room"},
+      {"src": "tiny-section-river.jpg", "alt": "Section through the river-facing library volume", "caption": "River section"},
+      {"src": "tiny-interior-forest.jpg", "alt": "Interior reading terrace oriented toward the forest", "caption": "Forest reading room"},
+      {"src": "tiny-section-forest.jpg", "alt": "Section through the forest-facing end of the bridge", "caption": "Forest section"},
+      {"src": "tiny-interior-park.jpg", "alt": "Flexible workshop and community room facing the park", "caption": "Park community room"},
+      {"src": "tiny-section-park.jpg", "alt": "Section through the park-facing productive space", "caption": "Park section"},
+      {"src": "tiny-plan-1f.jpg", "alt": "Ground-floor plan of the Mobile Bridge library", "caption": "Ground-floor plan"},
+      {"src": "tiny-plan-2f.jpg", "alt": "Upper-floor plan of the Mobile Bridge library", "caption": "Upper-floor plan"}
+    ]
+  },
+  {
+    "slug": "green-shell",
+    "legacy_file": "green-shell.html",
+    "index": "A-03",
+    "title": "Green Shell",
+    "year": "2025",
+    "category": "Parametric Pavilion",
+    "location": "Toledo, Ohio",
+    "role": "Independent design",
+    "recognition": "Rhino · Grasshopper",
+    "deck": "A porous urban pavilion that turns a generative shell into shade, habitat, and public room.",
+    "cover": "shell-render.jpg",
+    "story_title": "A responsive canopy between city and ecology.",
+    "story": [
+      "Green Shell brings together organic morphology, digital fabrication logic, and public space. Conceived for Toledo, the pavilion creates an urban oasis where filtered light, shadow, planting, and movement define the experience.",
+      "The pavilion is treated as a responsive organism rather than a freestanding object. Its placement and openings establish a localized microclimate while maintaining visual continuity with the surrounding landscape.",
+      "A Rhino and Grasshopper workflow transforms a continuous surface into a network of nodes and hollow triangular panels. The porous canopy filters sunlight, frames views, and supports native planting below, making environmental performance legible through form."
+    ],
+    "images": [
+      {"src": "shell-render.jpg", "alt": "Rendering of the Green Shell pavilion and planted public space", "caption": "Pavilion experience", "wide": true},
+      {"src": "shell-location.png", "alt": "Location analysis for the Green Shell pavilion in Toledo", "caption": "Location analysis"},
+      {"src": "shell-concept.jpg", "alt": "Concept development from organic shell to triangulated canopy", "caption": "Concept development"},
+      {"src": "shell-section.jpg", "alt": "Section through the pavilion canopy and landscape", "caption": "Section", "wide": true}
+    ]
+  },
+  {
+    "slug": "germination",
+    "legacy_file": "germination.html",
+    "index": "A-04",
+    "title": "Germination",
+    "year": "2024",
+    "category": "Morphology Study",
+    "location": "Spatial research",
+    "role": "Independent study",
+    "recognition": "Biology-to-tectonics translation",
+    "deck": "A formal system translating the growth logic of white dulcamara into architectural structure.",
+    "cover": "germination-cover.jpg",
+    "story_title": "Growth made tectonic.",
+    "story": [
+      "Germination begins with the biological morphology of white dulcamara: an upward trajectory defined by stability, rapid expansion, and unpredictable directional shifts.",
+      "Botanical anatomy is mapped to architectural elements. Root becomes pedestal, stem becomes vertical support, branches become cantilevered extensions, and the flower bloom culminates as a spatial volume.",
+      "The study does not imitate the plant’s appearance. Instead, it extracts a rule set from growth and tests how organic vitality can meet the discipline of structural geometry."
+    ],
+    "images": [
+      {"src": "germination-cover.jpg", "alt": "Germination morphology model against a neutral background", "caption": "Final morphology", "wide": true},
+      {"src": "germination-diagram.jpg", "alt": "Diagram mapping plant anatomy to architectural structure", "caption": "Structural mapping"},
+      {"src": "white-dulcamara.jpg", "alt": "White dulcamara plant used as a biological reference", "caption": "Biological reference"},
+      {"src": "germination-1.jpg", "alt": "First close view of the branching Germination model", "caption": "Morphology study 01"},
+      {"src": "germination-2.jpg", "alt": "Second close view of the Germination model", "caption": "Morphology study 02"}
+    ]
+  },
+  {
+    "slug": "flower-in-the-rock",
+    "legacy_file": "flower-in-the-rock.html",
+    "index": "A-05",
+    "title": "Flower in the Rock",
+    "year": "2025",
+    "category": "Tectonic Model",
+    "location": "Material study",
+    "role": "Independent study",
+    "recognition": "Cardboard · light timber",
+    "deck": "A study of fragile inhabitation emerging from heavy, eroded terrain.",
+    "cover": "flower-rock-cover.jpg",
+    "story_title": "Delicate structure against geological mass.",
+    "story": [
+      "Flower in the Rock explores the interface between architecture and raw natural forces, taking inspiration from plants that emerge from seemingly barren stone.",
+      "Layered corrugated cardboard forms a concave cliff with dramatic protrusions and crevices. Light timber interventions act as the flower: viewing platforms cantilever outward, dwellings nest into recesses, and a skeletal frame reaches above the peak.",
+      "The material contrast produces the central tension of the model—heavy earth against fragile architecture, permanence against growth, and shelter against exposure."
+    ],
+    "images": [
+      {"src": "flower-rock-cover.jpg", "alt": "Flower in the Rock model showing timber structures embedded in a cardboard cliff", "caption": "Final model", "wide": true},
+      {"src": "flower-rock-1.jpg", "alt": "Structural mapping of timber interventions across the cliff model", "caption": "Structural mapping"},
+      {"src": "flower-rock-2.jpg", "alt": "Top view of layered terrain and inserted structures", "caption": "Top view"},
+      {"src": "flower-rock-3.jpg", "alt": "Light and shadow across the layered cardboard topography", "caption": "Light and shadow"},
+      {"src": "flower-rock-4.jpg", "alt": "Full view of the tectonic model", "caption": "Full view"}
+    ]
+  },
+  {
+    "slug": "helix-tower",
+    "legacy_file": "helix-tower.html",
+    "index": "A-06",
+    "title": "Helix Tower",
+    "year": "2024",
+    "category": "Structural Concept",
+    "location": "Tectonic research",
+    "role": "Independent study",
+    "recognition": "Geometric equilibrium",
+    "deck": "Equal-length elements rotate around a circle to test balance, repetition, and vertical force.",
+    "cover": "helix-1.jpg",
+    "story_title": "Equilibrium through repetition.",
+    "story": [
+      "Helix Tower explores a simple geometric operation: equal-length wooden elements are positioned tangentially to a circle and rotated upward at a constant angle.",
+      "The repeated rule creates spatial stacking without abandoning legibility. Each element depends on the next, turning serial rotation into both structural logic and visual rhythm.",
+      "The final model stands vertically on a single plane, testing how minimal contact and carefully distributed forces can produce architectural equilibrium."
+    ],
+    "images": [
+      {"src": "helix-1.jpg", "alt": "Helix Tower model showing repeated timber elements rotating upward", "caption": "Final model", "wide": true},
+      {"src": "helix-analysis-1.jpg", "alt": "First geometric analysis of the helical rotation system", "caption": "Geometric analysis 01"},
+      {"src": "helix-elevation.jpg", "alt": "Elevation drawing of the Helix Tower", "caption": "Elevation"},
+      {"src": "helix-analysis-2.jpg", "alt": "Second geometric analysis of tangential elements", "caption": "Geometric analysis 02"},
+      {"src": "helix-top-view.jpg", "alt": "Top view drawing of the circular helix", "caption": "Top view"},
+      {"src": "helix-2.jpg", "alt": "Second view of the Helix Tower model", "caption": "Model study 02"}
+    ]
+  },
+  {
+    "slug": "magazine-design",
+    "legacy_file": "magazine-design.html",
+    "index": "A-07",
+    "title": "Architecture Magazine",
+    "year": "2026",
+    "category": "Editorial Design",
+    "location": "Visual communication",
+    "role": "Art direction and design",
+    "recognition": "Four-cover typology series",
+    "deck": "An editorial system connecting architectural typologies, image hierarchy, and expressive typography.",
+    "cover": "cover-chinese.jpg",
+    "story_title": "Architecture translated into an editorial voice.",
+    "story": [
+      "This cover series treats editorial design as a form of architectural representation. Each composition combines typographic hierarchy, image cropping, rhythm, and negative space to express a distinct architectural typology.",
+      "Urban, residential, interior, and Chinese architecture share a consistent visual system while retaining their own atmosphere. The result is a multidisciplinary exercise in how architecture is framed, sequenced, and communicated to a wider audience."
+    ],
+    "images": [
+      {"src": "cover-chinese.jpg", "alt": "Magazine cover focused on Chinese architecture", "caption": "Chinese architecture", "wide": true},
+      {"src": "cover-urban.jpg", "alt": "Magazine cover focused on urban architecture", "caption": "Urban architecture"},
+      {"src": "cover-residential.jpg", "alt": "Magazine cover focused on residential architecture", "caption": "Residential architecture"},
+      {"src": "cover-interior.jpg", "alt": "Magazine cover focused on interior design", "caption": "Interior design"}
+    ]
+  },
+  {
+    "slug": "z-day",
+    "legacy_file": "z-day.html",
+    "index": "A-08",
+    "title": "Z-Day: Rise of the Horde",
+    "year": "2025",
+    "category": "Virtual Environment",
+    "location": "Speculative world-building",
+    "role": "Environment and narrative design",
+    "recognition": "Ongoing game-world prototype",
+    "deck": "A research facility, viral breach, and reactor failure become the spatial climax of a speculative game world.",
+    "cover": "z-day-camera.jpg",
+    "story_title": "Narrative built through environment.",
+    "story": [
+      "Set in 2047 during a high-technology nuclear conflict, Z-Day centers on HelixCore, a research facility developing an anti-radiation vaccine. An explosion breaches containment and releases the volatile Nexis-9 virus.",
+      "Lead researcher Barr mutates, damages the reactor, and triggers an escalating fusion failure. Agent 1012 enters the facility in response to a distress signal with two spatial objectives: shut down the reactor and seal the site.",
+      "The environment is designed as a sequence of pressure, evidence, and revelation. Lighting, circulation, containment chambers, and industrial scale guide the player toward the Part I climax while establishing the world’s larger themes of nuclear fallout, mutation, and technological arms races."
+    ],
+    "images": [
+      {"src": "z-day-camera.jpg", "alt": "Camera view inside the HelixCore research facility", "caption": "Facility camera view", "wide": true},
+      {"src": "z-day-birdseye.jpg", "alt": "Bird’s-eye view of the Z-Day virtual environment", "caption": "Environment overview", "wide": true}
+    ],
+    "video": {"src": "z-day-video.mp4", "caption": "Ending sequence prototype"}
+  }
+]

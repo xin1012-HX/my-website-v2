@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Evolution",
+    "src": "art-snail.jpg",
+    "alt": "Ceramic snail sculpture with human-like teeth and an iron chain",
+    "dimensions": "8.25 × 8.25 × 4.5 in.",
+    "materials": "Ceramic, iron chain",
+    "description": "A compromised environment forces the gastropod into a grotesque, human-like morphology—a consequence of anthropocentric impact."
+  },
+  {
+    "title": "Residuum",
+    "src": "art-oyster.jpg",
+    "alt": "Empty ceramic oyster shell among sand and synthetic maritime debris",
+    "dimensions": "1.5 × 10 × 10 in.",
+    "materials": "Ceramic, natural sand, scoop-net, acrylic, found object",
+    "description": "A degraded shoreline where an empty oyster shell loses its organic flesh and is left among synthetic maritime refuse."
+  },
+  {
+    "title": "Decay",
+    "src": "art-slugs.jpg",
+    "alt": "Slug sculpture among moss, plastic, and a discarded bottle",
+    "dimensions": "2 × 10.5 × 8 in.",
+    "materials": "Clay, preserved moss, plastic, water bottle, warning sticker",
+    "description": "Commercial plastic infiltrates the soil and creates a toxic contrast with living green moss."
+  },
+  {
+    "title": "Toxification",
+    "src": "art-fish.jpg",
+    "alt": "Mutated ceramic fish displayed over printed scientific imagery",
+    "dimensions": "2.5 × 11.75 × 7 in.",
+    "materials": "Ceramic, foamboard, collage magazine print",
+    "description": "Pustules, scales, and lacerations map fatal aquatic mutations and invasive experimentation."
+  },
+  {
+    "title": "Delicacy",
+    "src": "art-bear.jpg",
+    "alt": "Ceramic bear paw staged as a plated delicacy",
+    "dimensions": "2.5 × 10 × 10 in.",
+    "materials": "Ceramic, acrylic paint, porcelain plate, salt, black pepper",
+    "description": "Culinary staging masks a mutilated limb, indicting commodification and human desire."
+  },
+  {
+    "title": "Skin of Envy",
+    "src": "art-snake.jpg",
+    "alt": "Ceramic snake constrained by plastic wrap and a barcode",
+    "dimensions": "5.5 × 8 × 7.25 in.",
+    "materials": "Ceramic, plastic wrap, barcode",
+    "description": "Commercial packaging suffocates the reptile and links snakeskin to luxury consumption."
+  },
+  {
+    "title": "Echoes of Wrath",
+    "src": "art-octopus.jpg",
+    "alt": "Cephalopod sculpture marked by concentric plastic rings",
+    "dimensions": "8 × 8.5 × 6.75 in.",
+    "materials": "Ceramic, synthetic plastic rings, acrylic paint",
+    "description": "Concentric scars visualize the destructive frequencies of naval sonar imposed on underwater habitats."
+  },
+  {
+    "title": "Feeding Gluttony",
+    "src": "art-chicken.jpg",
+    "alt": "Large chicken sculpture penetrated by a mechanical feeding tube",
+    "dimensions": "20 × 20 × 14 in.",
+    "materials": "Cardboard, natural straw, corn, wooden dowels, plastic",
+    "description": "A feeding tube turns the animal into a manufacturing asset engineered for accelerated consumption."
+  },
+  {
+    "title": "Trophy of Greed",
+    "src": "art-deer.jpg",
+    "alt": "Wireframe stag head pierced by multiple hunting arrows",
+    "dimensions": "23 × 27 × 10 in.",
+    "materials": "Wooden dowels, acrylic paint, Blender 3D-printed joints",
+    "description": "A structural stag head is pierced by arrows, reflecting the pursuit of dominance and trophy status."
+  },
+  {
+    "title": "Theatre of Pride",
+    "src": "art-dolphin.jpg",
+    "alt": "Cetacean sculpture leaping through an artificial ring of flame",
+    "dimensions": "8 × 10.25 × 6.5 in.",
+    "materials": "Ceramic, shaped plastic, acrylic paint",
+    "description": "A captive cetacean is turned from an individual life into mass spectacle and entertainment."
+  },
+  {
+    "title": "Two Seconds of Gravity",
+    "src": "art-frog.jpg",
+    "alt": "Frog sculpture pinned beneath the tread of a car tire",
+    "dimensions": "6.75 × 9.5 × 6 in.",
+    "materials": "Ceramic, Blender 3D-printed tire matrix, acrylic paint",
+    "description": "Synthetic tire tread conveys urban oppression as the trapped amphibian loses its ability to jump."
+  },
+  {
+    "title": "Packaged Relic",
+    "src": "art-tusk.jpg",
+    "alt": "Elephant tusk form constructed from financial newspaper print",
+    "dimensions": "19.5 × 8.5 × 8.5 in.",
+    "materials": "Ceramic, foamboard, wooden rod, newspaper, fabric thread",
+    "description": "Financial media constructs a poached tusk, showing wildlife converted into commercial capital."
+  },
+  {
+    "title": "The Rusted Howl",
+    "src": "art-wolf.jpg",
+    "alt": "Ceramic wolf head with industrial screws replacing its teeth",
+    "dimensions": "7.25 × 6 × 4.5 in.",
+    "materials": "Ceramic, industrial steel screws",
+    "description": "An apex predator is discarded on urban stone, its evolutionary fangs replaced by machinery."
+  },
+  {
+    "title": "Infrastructure of Silence",
+    "src": "art-nest.jpg",
+    "alt": "Bird nest sculpture beneath a model of electrical infrastructure",
+    "dimensions": "21.25 × 19 × 17.5 in.",
+    "materials": "Branches, coconut fiber, wire, fractured eggshells",
+    "description": "Transmission infrastructure looms over a fragile nest and exposes unseen hazards within local ecosystems."
+  },
+  {
+    "title": "Imprisoned Freedom",
+    "src": "art-eagle.jpg",
+    "alt": "Wire eagle held tightly by a large 3D-printed human hand",
+    "dimensions": "9 × 16 × 23 in.",
+    "materials": "Wire framework, Blender 3D-printed hand, acrylic",
+    "description": "An eagle engineered for open sky is anchored by a human hand—an emblem of forced subjugation."
+  }
+]
