@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xin1012-hx.github.io/my-website-v2/sitemap.xml
