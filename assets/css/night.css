@@ -1229,7 +1229,7 @@ a {
   }
 
   .section-heading h2 {
-    font-size: clamp(2.2rem, 9vw, 4.2rem);
+    font-size: clamp(1.9rem, 7.8vw, 4rem);
     line-height: 1.04;
   }
 
@@ -1284,8 +1284,9 @@ a {
   }
 
   .about-title {
-    font-size: clamp(2rem, 7.4vw, 3.8rem);
+    font-size: clamp(1.6rem, 6.65vw, 3.5rem);
     line-height: 1.04;
+    overflow-wrap: normal;
   }
 
   .art-strip {
@@ -1328,9 +1329,10 @@ a {
 
   .project-hero h1 {
     max-width: 100%;
-    font-size: clamp(1.75rem, 7.3vw, 3.6rem);
+    font-size: clamp(1.6rem, 6.65vw, 3.4rem);
     line-height: 1.04;
     letter-spacing: -0.04em;
+    overflow-wrap: normal;
     text-wrap: wrap;
   }
 
@@ -1349,13 +1351,15 @@ a {
   }
 
   .project-story h2 {
-    font-size: clamp(2rem, 7.3vw, 3.8rem);
+    font-size: clamp(1.6rem, 6.65vw, 3.5rem);
     line-height: 1.04;
+    overflow-wrap: normal;
   }
 
   .next-project strong {
-    font-size: clamp(2rem, 8vw, 3rem);
+    font-size: clamp(1.6rem, 6.65vw, 3rem);
     line-height: 1.04;
+    overflow-wrap: normal;
   }
 
   .project-gallery {
