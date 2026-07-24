@@ -628,7 +628,7 @@ main > nav {
   filter: saturate(0.95) brightness(0.7);
 }
 
-.art-tile span {
+.art-tile > span {
   position: absolute;
   right: 1.25rem;
   bottom: 1.25rem;
@@ -872,7 +872,7 @@ main > nav {
   line-height: 1;
 }
 
-.next-project span {
+.next-project > span {
   font-size: 0.66rem;
   font-weight: 600;
   letter-spacing: 0.13em;
@@ -1336,7 +1336,7 @@ main > nav {
     gap: 1rem;
   }
 
-  .next-project span:first-child {
+  .next-project > span:first-child {
     grid-column: 1 / -1;
   }
 
