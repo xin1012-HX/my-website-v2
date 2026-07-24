@@ -143,8 +143,8 @@ def page(
   <link rel="manifest" href="site.webmanifest">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="assets/css/site.css">
-  <link rel="stylesheet" href="assets/css/night.css">
+  <link rel="stylesheet" href="assets/css/site.css?v=20260724-wordfit">
+  <link rel="stylesheet" href="assets/css/night.css?v=20260724-wordfit">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{esc(title)}">
   <meta property="og:description" content="{esc(description)}">
@@ -152,7 +152,7 @@ def page(
   <meta property="og:image" content="{esc(base_url.rstrip('/'))}/assets/images/og-night.png">
   <meta name="twitter:card" content="summary_large_image">
   {structured}
-  <script defer src="assets/js/site.js"></script>
+  <script defer src="assets/js/site.js?v=20260724-wordfit"></script>
 </head>
 <body>
   <div class="site-shell">
