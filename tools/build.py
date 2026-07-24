@@ -135,7 +135,7 @@ def page(
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#171716">
+  <meta name="theme-color" content="#050816">
   <title>{esc(title)}</title>
   <meta name="description" content="{esc(description)}">
   <link rel="canonical" href="{esc(canonical)}">
@@ -144,11 +144,12 @@ def page(
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="assets/css/site.css">
+  <link rel="stylesheet" href="assets/css/night.css">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{esc(title)}">
   <meta property="og:description" content="{esc(description)}">
   <meta property="og:url" content="{esc(canonical)}">
-  <meta property="og:image" content="{esc(base_url.rstrip('/'))}/assets/images/og.png">
+  <meta property="og:image" content="{esc(base_url.rstrip('/'))}/assets/images/og-night.png">
   <meta name="twitter:card" content="summary_large_image">
   {structured}
   <script defer src="assets/js/site.js"></script>
