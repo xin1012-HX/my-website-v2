@@ -251,7 +251,7 @@ a {
 
 .hero h1 {
   width: 100%;
-  max-width: 9ch;
+  max-width: 11ch;
   margin-top: clamp(2rem, 10vh, 7rem);
   font-family: var(--serif);
   font-size: clamp(4.25rem, 5.3vw, 8rem);
@@ -1082,7 +1082,7 @@ a {
   }
 
   .hero h1 {
-    max-width: 8.5ch;
+    max-width: 11ch;
   }
 
   .hero-summary {
