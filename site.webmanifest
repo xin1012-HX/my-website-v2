@@ -4,8 +4,8 @@
   "description": "Architecture, spatial research, environmental art, and virtual environments by Xin Louis He.",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#f3f1ec",
-  "theme_color": "#171716",
+  "background_color": "#050816",
+  "theme_color": "#050816",
   "icons": [
     {
       "src": "assets/images/favicon.png",
