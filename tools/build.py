@@ -143,8 +143,8 @@ def page(
   <link rel="manifest" href="site.webmanifest">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="assets/css/site.css?v=20260724-wordfit">
-  <link rel="stylesheet" href="assets/css/night.css?v=20260724-wordfit">
+  <link rel="stylesheet" href="assets/css/site.css?v=20260724-portrait">
+  <link rel="stylesheet" href="assets/css/night.css?v=20260724-portrait">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{esc(title)}">
   <meta property="og:description" content="{esc(description)}">
