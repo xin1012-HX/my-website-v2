@@ -555,8 +555,8 @@ a {
 }
 
 .about-portrait img {
-  filter: grayscale(1) contrast(1.16) brightness(0.9);
-  mix-blend-mode: luminosity;
+  filter: none;
+  mix-blend-mode: normal;
 }
 
 .about-copy {
