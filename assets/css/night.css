@@ -254,7 +254,7 @@ a {
   max-width: 9ch;
   margin-top: clamp(2rem, 10vh, 7rem);
   font-family: var(--serif);
-  font-size: clamp(4.25rem, 9vw, 9.6rem);
+  font-size: clamp(4.25rem, 5.3vw, 8rem);
   font-weight: 800;
   line-height: 0.98;
   letter-spacing: -0.06em;
@@ -747,7 +747,7 @@ a {
   width: 100%;
   max-width: 11ch;
   font-family: var(--serif);
-  font-size: clamp(4rem, 8vw, 9rem);
+  font-size: clamp(4rem, 5.5vw, 8rem);
   font-weight: 800;
   line-height: 0.98;
   letter-spacing: -0.055em;
@@ -1206,7 +1206,7 @@ a {
   .hero h1 {
     max-width: 100%;
     margin-top: 1.5rem;
-    font-size: clamp(2.85rem, 12vw, 4.25rem);
+    font-size: clamp(1.75rem, 7.4vw, 3.1rem);
     line-height: 1.04;
     letter-spacing: -0.045em;
     text-wrap: wrap;
@@ -1229,7 +1229,7 @@ a {
   }
 
   .section-heading h2 {
-    font-size: clamp(2.9rem, 12.5vw, 4.8rem);
+    font-size: clamp(2.2rem, 9vw, 4.2rem);
     line-height: 1.04;
   }
 
@@ -1284,7 +1284,7 @@ a {
   }
 
   .about-title {
-    font-size: clamp(2.8rem, 12vw, 4.6rem);
+    font-size: clamp(2rem, 7.4vw, 3.8rem);
     line-height: 1.04;
   }
 
@@ -1328,7 +1328,7 @@ a {
 
   .project-hero h1 {
     max-width: 100%;
-    font-size: clamp(2.85rem, 12vw, 4.6rem);
+    font-size: clamp(1.75rem, 7.3vw, 3.6rem);
     line-height: 1.04;
     letter-spacing: -0.04em;
     text-wrap: wrap;
@@ -1349,7 +1349,12 @@ a {
   }
 
   .project-story h2 {
-    font-size: clamp(2.8rem, 12vw, 4.6rem);
+    font-size: clamp(2rem, 7.3vw, 3.8rem);
+    line-height: 1.04;
+  }
+
+  .next-project strong {
+    font-size: clamp(2rem, 8vw, 3rem);
     line-height: 1.04;
   }
 
@@ -1378,7 +1383,7 @@ a {
 
   .art-hero h1 {
     max-width: 100%;
-    font-size: clamp(3rem, 11.5vw, 4.8rem);
+    font-size: clamp(2.2rem, 8vw, 4rem);
     line-height: 1.04;
     letter-spacing: -0.045em;
     text-wrap: wrap;
